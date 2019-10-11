@@ -62,3 +62,7 @@ Hacktoberfest Classroom Project 2019
 > Hi, how do you do? Where did you come from, where did you go? Where did you come from, Cotton-Eye Joe?
 ---
 
+### Istvan
+[St3ve89](https://github.com/St3ve89/)
+> Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.
+---
